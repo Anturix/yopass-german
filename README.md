@@ -1,17 +1,18 @@
 
 # yopass - German language file
 
-German language File for yopass by Johan Haals (jhaals/yopass)
+---
+## English
+German language File for yopass by Johan Haals (jhaals/yopass)   
+[Yopass - Share Secrets Securely](https://github.com/jhaals/yopass)
 
-[Yopass - Share Secrets Securely](Yopass - Share Secrets Securely)
-
-## Installation
+### Installation
 
 Copy the website/public/locales/de.json file to the corresponding directory in your yopass installation.
 
 yopass will automatically detect the new language and activate it if your Browser presents that language to yopass.
 
-## Container
+### Container
 
 Check this repository out and build your own container with the german language file included to the original Yopass-Image from docker.io.
 
@@ -22,18 +23,18 @@ docker build -t anturix/yopassde -f Dockerfile
 ```
 
 ---
+## Deutsch
 
-Deutsche Sprachdatei für yopass von Johan Haals (jhaals/yopass)
+Deutsche Sprachdatei für yopass von Johan Haals (jhaals/yopass)   
+[Yopass - Share Secrets Securely](https://github.com/jhaals/yopass)
 
-[Yopass - Share Secrets Securely](Yopass - Share Secrets Securely)
-
-## Installation
+### Installation
 
 Kopiere die Datei website/public/locales/de.json in das entsprechende Verzeichnis der yopass-Installation.
 
 Die Sprachdatei wird automatisch erkannt und genutzt, wenn der Browser die Sprache an yopass übermittelt.
 
-## Container
+### Container
 
 Einfach dieses Repo klonen und einen eigenen Container bauen, der die deutsche Sprachdatei in das Original-Yopass-Image von docker.io integriert.
 
