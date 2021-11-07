@@ -67,7 +67,7 @@
     "featureEndToEndTitle": "Ende zu Ende Verschlüsselung",
     "featureEndToEndText": "Ver- und Entschlüsselung werden lokal im Browser ausgeführt. Der Schlüssel wird niemals an den yopass-Server übermittelt.",
     "featureSelfDestructionTitle": "Selbstzerstörung",
-    "featureSelfDestructionText": "Alle verschlüsselten Nachrichten haben eine begrenzte Lebensdauer und werden spätestens nach Ablauf der Speicherdauer automatisch gelöscht.",
+    "featureSelfDescructionText": "Alle verschlüsselten Nachrichten haben eine begrenzte Lebensdauer und werden spätestens nach Ablauf der Speicherdauer automatisch gelöscht.",
     "featureOneTimeTitle": "Einmaldownload",
     "featureOneTimeText": "Die verschlüsselten Nachrichten können nur einmalig aufgerufen werden. Dadurch wird das Risiko reduziert, das Dritte unbemerkt Kenntnis davon erlangen können.",
     "featureSimpleSharingTitle": "Einfach teilen",
