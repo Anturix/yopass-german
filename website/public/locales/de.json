@@ -5,13 +5,13 @@
     "inputSecretPlaceholder": "Nachricht, die im Browser verschlüsselt werden soll.",
     "buttonEncrypt": "Nachricht verschlüsseln",
     "buttonEncryptLoading": "Verschlüssele Nachricht...",
-    "inputOneTimeLabel": "Einmaldownload",
+    "inputOneTimeLabel": "Einmaliger download",
     "inputPasswordLabel": "Benutzerdefinierter Schlüssel",
     "inputGenerateLabel": "Schlüssel erzeugen"
   },
   "upload": {
-    "title": "Datei ablegen zum Upload...",
-    "caption": "Der Dateiupload ist für kleine Dateien gedacht, wie z.B. ssh-Schlüssel oder Zertifikatsdateien",
+    "title": "Datei ablegen zum Hochladen...",
+    "caption": "Der Dateiupload ist für kleine Dateien gedacht, wie z.B. SSH-Schlüssel oder Zertifikatsdateien",
     "errorFileTooLarge": "Die Datei ist zu groß"
   },
   "display": {
@@ -67,17 +67,17 @@
   "expiration": {
     "legend": "Speicherdauer, nach der die verschlüsselte Nachricht automatisch gelöscht werden soll.",
     "optionOneHourLabel": "Eine Stunde",
-    "optionOneDayLabel": "Ein Tag",
+    "optionOneDayLabel": "Einen Tag",
     "optionOneWeekLabel": "Eine Woche"
   },
   "features": {
     "title": "Geheimnisse sicher und einfach teilen",
-    "subtitle": "Yopass wurde mit dem Ziel erstellt, die Anzahl Klartextpasswörter in E-Mails oder Chats zu reduzieren, in dem diese verschlüsselt und mittels eines kurzlebigen, nur einmal aufrufbaren Links, übermittelt werden können.",
-    "featureEndToEndTitle": "Ende zu Ende Verschlüsselung",
+    "subtitle": "Yopass wurde mit dem Ziel erstellt, die Anzahl Klartextpasswörter in E-Mails oder Chats zu reduzieren, indem diese verschlüsselt und mittels eines kurzlebigen, nur einmal aufrufbaren Links, übermittelt werden können.",
+    "featureEndToEndTitle": "Ende-zu-Ende Verschlüsselung",
     "featureEndToEndText": "Ver- und Entschlüsselung werden lokal im Browser ausgeführt. Der Schlüssel wird niemals an den yopass-Server übermittelt.",
     "featureSelfDestructionTitle": "Selbstzerstörung",
     "featureSelfDestructionText": "Alle verschlüsselten Nachrichten haben eine begrenzte Lebensdauer und werden spätestens nach Ablauf der Speicherdauer automatisch gelöscht.",
-    "featureOneTimeTitle": "Einmaldownload",
+    "featureOneTimeTitle": "Einmaliger Download",
     "featureOneTimeText": "Die verschlüsselten Nachrichten können nur einmalig aufgerufen werden. Dadurch wird das Risiko reduziert, das Dritte unbemerkt Kenntnis davon erlangen können.",
     "featureSimpleSharingTitle": "Einfach teilen",
     "featureSimpleSharingText": "Yopass erstellt einen individuellen Einmallink für die verschlüsselte Datei oder Nachricht. Der Dechiffrierschlüssel kann separat übermittelt werden.",
