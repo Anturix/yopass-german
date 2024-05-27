@@ -5,13 +5,13 @@
     "inputSecretPlaceholder": "Nachricht, die im Browser verschlüsselt werden soll.",
     "buttonEncrypt": "Nachricht verschlüsseln",
     "buttonEncryptLoading": "Verschlüssele Nachricht...",
-    "inputOneTimeLabel": "Einmaldownload",
+    "inputOneTimeLabel": "Einmaliger download",
     "inputPasswordLabel": "Benutzerdefinierter Schlüssel",
     "inputGenerateLabel": "Schlüssel erzeugen"
   },
   "upload": {
-    "title": "Datei ablegen zum Upload...",
-    "caption": "Der Dateiupload ist für kleine Dateien gedacht, wie z.B. ssh-Schlüssel oder Zertifikatsdateien",
+    "title": "Datei ablegen zum Hochladen...",
+    "caption": "Der Dateiupload ist für kleine Dateien gedacht, wie z.B. SSH-Schlüssel oder Zertifikatsdateien",
     "errorFileTooLarge": "Die Datei ist zu groß"
   },
   "display": {
