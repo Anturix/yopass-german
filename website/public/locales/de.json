@@ -48,6 +48,8 @@
     "titleMessage": "Entschlüsselte Nachricht",
     "subtitleMessage": "Dieses Geheimnis ist möglicherweise nur einmal lesbar. Bitte jetzt sichern!",
     "buttonCopy": "Kopieren"
+    "showQrCode": "QR-Code anzeigen",
+    "hideQrCode": "QR-Code ausblenden"
   },
   "delete": {
     "buttonDelete": "Löschen",
