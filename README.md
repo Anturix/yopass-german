@@ -1,6 +1,6 @@
 
-Since Version 12.1.0, yopass comes with the german language included.
-So this repository is obsolete an will be archived.
+Since Version 12.1.0, yopass comes with the german language included.  
+So this repository is obsolete and will be archived.
 
 ---
 
