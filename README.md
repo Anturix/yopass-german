@@ -1,6 +1,6 @@
 
-Since Version 12.1.0, yopass comes with the german language included.  
-So this repository is obsolete and will be archived.
+***Since Version 12.1.0, yopass comes with the german language included.  
+So this repository is obsolete and will be archived.***
 
 ---
 
@@ -29,8 +29,8 @@ docker build -t anturix/yopassde -f Dockerfile
 
 ---
 
-Seit Version 12.1.0 wird yopass mit der deutschen Sprachvariante ausgeliefert.
-Dieses Repository ist somit obsolet und wird archiviert.
+***Seit Version 12.1.0 wird yopass mit der deutschen Sprachvariante ausgeliefert.  
+Dieses Repository ist somit obsolet und wird archiviert.***
 
 ---
 ## Deutsch
